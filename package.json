@@ -1,9 +1,10 @@
+
 {
   "name": "arslan-md",
   "version": "1.0.0",
-  "description": "A clean starter WhatsApp bot for Android/Termux",
+  "description": "Arslan-MD WhatsApp Bot",
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },

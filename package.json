@@ -1,0 +1,19 @@
+{
+  "name": "arslan-md",
+  "version": "1.0.0",
+  "description": "A clean starter WhatsApp bot for Android/Termux",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "dotenv": "latest",
+    "qrcode-terminal": "latest",
+    "wa-sticker-formatter": "latest"
+  }
+}

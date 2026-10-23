@@ -7,9 +7,10 @@ import makeWASocket, {
 import qrcode from 'qrcode-terminal';
 import { Sticker, StickerTypes } from 'wa-sticker-formatter';
 
-const BOT_NAME = process.env.BOT_NAME || 'Arslan-MD';
+const BOT_NAME = process.env.BOT_NAME || 'ARSLAN-MD';
+Const OWNER_NAME=process.env.OWNER-NAME||'MR ARSLAN';
 const PREFIX = process.env.PREFIX || '.';
-const OWNER_NUMBER = (process.env.OWNER_NUMBER || '').replace(/\D/g, '');
+const OWNER_NUMBER = (process.env.OWNER_NUMBER || '923467214839').replace(/\D/g, '');
 const AUTH_DIR = '.auth_info';
 const cooldowns = new Map();
 

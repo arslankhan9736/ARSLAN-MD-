@@ -14,3 +14,5 @@ Built on Baileys • Designed for Speed • Enhanced for Stability • Powered b
 <img src="https://img.shields.io/github/followers/arslankhan9736?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
 <img src="https://img.shields.io/github/last-commit/arslankhan9736/ARSLAN-MD-?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
 <img src="https://img.shields.io/github/repo-size/arslankhan9736/ARSLAN-MD-?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" /></div>---
+Deploy New Version 1.0.0
+

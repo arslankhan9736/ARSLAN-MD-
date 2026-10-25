@@ -19,7 +19,7 @@ Deploy New Version 1.0.0
 ARSLAN MD — Version 1.0.0
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/arslankhan9736/ARSLAN-MD-/main/arslanmd.jpg" width="300" alt="https://kommodo.ai/i/a8nhqxqHxWG4dDnRf8c4"/>
+  <img src="https://raw.githubusercontent.com/arslankhan9736/ARSLAN-MD-/main/arslanmd.jpg" width="300" alt="ARSLAN MD BOT"/>
 </div> 
 <div align="center">
   <img src="https://img.shields.io/badge/WhatsApp-MultiDevice-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Multi-Device"/>

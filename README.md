@@ -16,3 +16,11 @@ Built on Baileys • Designed for Speed • Enhanced for Stability • Powered b
 <img src="https://img.shields.io/github/repo-size/arslankhan9736/ARSLAN-MD-?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" /></div>---
 Deploy New Version 1.0.0
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/arslankhan9736/ARSLAN-MD-/main/arslanmd.jpg" width="300" alt="ARSLAN MD Logo"/>
+</div>
+<div align="center">
+  <img src="https://img.shields.io/badge/WhatsApp-MultiDevice-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Multi-Device"/>
+  <img src="https://img.shields.io/badge/Powered%20By-Node.js-339933?style=for-the-badge&logo=nodedotjs" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Baileys-WhatsApp-blueviolet?style=for-the-badge" alt="Baileys"/>
+</div>

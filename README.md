@@ -15,8 +15,10 @@ Built on Baileys • Designed for Speed • Enhanced for Stability • Powered b
 <img src="https://img.shields.io/github/last-commit/arslankhan9736/ARSLAN-MD-?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
 <img src="https://img.shields.io/github/repo-size/arslankhan9736/ARSLAN-MD-?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" /></div>---
 Deploy New Version 1.0.0
- <div align="center">
-  <img src="https://raw.githubusercontent.com/arslankhan9736/ARSLAN-MD-/main/arslanmd.jpg" width="300" alt="ARSLAN MD Logo"/>
+<div align="center">
+  <img src="APNI-IMAGE-KA-DIRECT-<div align="center">
+  <img src="https://example.com/arslanmd.jpg" width="300" alt="ARSLAN MD Logo"/>
+  </div>" width="300" alt="ARSLAN MD Logo"/>
 </div> 
 <div align="center">
   <img src="https://img.shields.io/badge/WhatsApp-MultiDevice-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Multi-Device"/>

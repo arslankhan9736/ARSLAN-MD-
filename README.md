@@ -6,3 +6,11 @@
 </div>
 Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by MR ARSLAN 
 
+<div align="center"><h1>
+  <img src="https://img.shields.io/badge/-✨_ARSLAN--MD_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd" />
+</h1><img src="https://komarev.com/ghpvc/?username=arslankhan9736&label=Profile%20Views&color=9D00FF&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/stars/arslankhan9736/ARSLAN-MD-?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
+<img src="https://img.shields.io/github/forks/arslankhan9736/ARSLAN-MD-?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+<img src="https://img.shields.io/github/followers/arslankhan9736?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
+<img src="https://img.shields.io/github/last-commit/arslankhan9736/ARSLAN-MD-?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
+<img src="https://img.shields.io/github/repo-size/arslankhan9736/ARSLAN-MD-?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" /></div>---

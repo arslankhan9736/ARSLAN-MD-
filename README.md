@@ -88,3 +88,41 @@ ARSLAN MD — Version 1.0.0
 </a>
 
 </div>
+## 🚀 Deploy ARSLAN-MD Mini Bot
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/arslankhan9736/ARSLAN-MD-/archive/refs/heads/main.zip" target="_blank">
+        <img alt="Download ARSLAN-MD ZIP" src="https://img.shields.io/badge/DOWNLOAD_ZIP-ARSLAN_MD-25D366?style=for-the-badge&logo=github&logoColor=white&labelColor=101010"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<hr>
+
+<p align="center">
+  <i>✨ Keep ARSLAN-MD updated for the latest features and fixes.</i>
+</p>
+
+---
+
+## 🤖 ARSLAN-MD FEATURES
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Bot-ARSLAN--MD-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="ARSLAN-MD"/>
+  <img src="https://img.shields.io/badge/Platform-WhatsApp-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</div>
+
+### Available Commands
+- `.menu` — Show commands
+- `.ping` — Check bot status
+- `.joke` — Get a funny joke
+- `.info` — Bot information
+- `.sticker` — Create a sticker from an image
+- `.tagall` — Mention group members (admin only)
+- `.kick` — Remove a group member (admin only)
+- `.promote` — Promote a group member (admin only)
+- `.demote` — Demote a group member (admin only)

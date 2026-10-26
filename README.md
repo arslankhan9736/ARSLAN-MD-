@@ -64,6 +64,11 @@ ARSLAN MD — Version 1.0.0
 
 ---
 
+## 🔑 ARSLAN-MD Pairing Code
+
+[![Get Pairing Code](https://img.shields.io/badge/Get-Pairing_Code-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](YOUR_HEROKU_APP_URL)
+
+
 ## 📡 DEPLOYMENT SITES
 
 <a href="https://dashboard.heroku.com/">

@@ -26,3 +26,28 @@ ARSLAN MD — Version 1.0.0
   <img src="https://img.shields.io/badge/Powered%20By-Node.js-339933?style=for-the-badge&logo=nodedotjs" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Baileys-WhatsApp-blueviolet?style=for-the-badge" alt="Baileys"/>
 </div>
+<h2 align="center">🛰️ ARSLAN MD — Deployment Steps</h2>
+
+<div align="center">
+
+  <a href="https://github.com/arslankhan9736/ARSLAN-MD-/fork">
+    <img src="https://img.shields.io/badge/FORK_ARSLAN_MD-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Fork ARSLAN MD"/>
+  </a>
+
+</div>
+
+---
+
+### 🚀 Deploy Your Bot
+
+1. ⭐ Star your repository on GitHub.
+2. 🍴 Fork the repository using the button above.
+3. 📁 Clone your repository or download its files.
+4. ⚙️ Configure the required environment variables.
+5. 🐳 Make sure the required `Dockerfile` and `heroku.yml` files are present if using Docker deployment.
+6. 🚀 Deploy using your chosen hosting platform.
+
+---
+
+**Bot Name:** ARSLAN MD  
+**Owner:** MR ARSLAN

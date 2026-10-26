@@ -51,3 +51,36 @@ ARSLAN MD — Version 1.0.0
 
 **Bot Name:** ARSLAN MD  
 **Owner:** MR ARSLAN
+## 🚀 ARSLAN MD — Pairing Dashboard
+
+> اپنے WhatsApp bot کو لنک کرنے کے لیے اپنے pairing server کا URL استعمال کریں۔
+
+<div align="center">
+
+### 🌊 GET SESSION ID
+
+<p align="center">
+  <a href="YOUR_PAIRING_SERVER_URL">
+    <img src="https://img.shields.io/badge/💫_GET_PAIRING_CODE-4F46E5?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1e1b4b" alt="ARSLAN MD Pairing Code"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## 📡 DEPLOYMENT SITES
+
+<p align="center">Deploy your <strong>ARSLAN MD Bot</strong> using your configured hosting platform.</p>
+
+<div align="center">
+
+### 🔥 ARSLAN MD
+
+<a href="https://github.com/arslankhan9736/ARSLAN-MD-">
+  <img src="https://img.shields.io/badge/⭐_ARSLAN_MD_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="ARSLAN MD Repository"/>
+</a>
+
+</div>
+
+---

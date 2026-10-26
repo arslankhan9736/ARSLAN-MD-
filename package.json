@@ -6,7 +6,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "start:pair": "node pair.js"
   },
   "engines": {
     "node": ">=20"
@@ -15,6 +16,7 @@
     "@whiskeysockets/baileys": "latest",
     "dotenv": "latest",
     "qrcode-terminal": "latest",
-    "wa-sticker-formatter": "latest"
+    "wa-sticker-formatter": "latest",
+    "express": "latest"
   }
 }

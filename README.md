@@ -51,36 +51,35 @@ ARSLAN MD — Version 1.0.0
 
 **Bot Name:** ARSLAN MD  
 **Owner:** MR ARSLAN
+--
 ## 🚀 ARSLAN MD — Pairing Dashboard
-
-> اپنے WhatsApp bot کو لنک کرنے کے لیے اپنے pairing server کا URL استعمال کریں۔
 
 <div align="center">
 
-### 🌊 GET SESSION ID
+### 🔑 GET SESSION ID
 
-<p align="center">
-  <a href="YOUR_PAIRING_SERVER_URL">
-    <img src="https://img.shields.io/badge/💫_GET_PAIRING_CODE-4F46E5?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=1e1b4b" alt="ARSLAN MD Pairing Code"/>
-  </a>
-</p>
-
-</div>
+<a href="YOUR_PAIRING_SERVER_URL">
+  <img src="https://img.shields.io/badge/GET_SESSION_ID-4F46E5?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Get Session ID"/>
+</a>
 
 ---
 
 ## 📡 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>ARSLAN MD Bot</strong> using your configured hosting platform.</p>
+<a href="https://dashboard.heroku.com/">
+  <img src="https://img.shields.io/badge/Deploy_on_Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+</a>
 
-<div align="center">
+<a href="https://railway.app/">
+  <img src="https://img.shields.io/badge/Deploy_on_Railway-7B61FF?style=for-the-badge&logo=railway&logoColor=white" alt="Railway"/>
+</a>
 
-### 🔥 ARSLAN MD
+<a href="https://render.com/">
+  <img src="https://img.shields.io/badge/Deploy_on_Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render"/>
+</a>
 
-<a href="https://github.com/arslankhan9736/ARSLAN-MD-">
-  <img src="https://img.shields.io/badge/⭐_ARSLAN_MD_REPOSITORY-008000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="ARSLAN MD Repository"/>
+<a href="https://app.koyeb.com/">
+  <img src="https://img.shields.io/badge/Deploy_on_Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" alt="Koyeb"/>
 </a>
 
 </div>
-
----
